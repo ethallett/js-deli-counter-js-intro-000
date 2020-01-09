@@ -30,3 +30,4 @@ function currentLine(katzDeliLine){
 
   return line += array.join(" ")
 }
+}
